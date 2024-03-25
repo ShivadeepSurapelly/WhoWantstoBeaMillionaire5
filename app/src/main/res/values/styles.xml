@@ -1,0 +1,12 @@
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Your app's main theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Define your app's main theme attributes here -->
+    </style>
+
+    <!-- SplashTheme style -->
+    <style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+</resources>
